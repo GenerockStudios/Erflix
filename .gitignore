@@ -128,3 +128,11 @@ dist
 .yarn/build-state.yml
 .yarn/install-state.gz
 .pnp.*
+/.containers
+/.vs
+*.dll
+*.exe
+*.cache
+*.props
+*.pdb
+*.Up2Date
