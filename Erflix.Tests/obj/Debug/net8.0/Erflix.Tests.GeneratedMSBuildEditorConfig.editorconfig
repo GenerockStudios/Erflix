@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Erflix.Tests
-build_property.ProjectDir = D:\Work\Projets\portefolio\Erflix\Erflix.Tests\
+build_property.ProjectDir = d:\Work\Projets\portefolio\Erflix\Erflix.Tests\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
